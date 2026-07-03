@@ -2,7 +2,7 @@
 
 **Junior frontend developer** · React · TypeScript · React Native
 
-I build typed, tested interfaces and ship them. Open to junior frontend roles, remote-friendly (EN / RU).
+I build typed, tested interfaces and ship them. Open to junior frontend roles, remote-friendly.
 
 ## Projects
 
