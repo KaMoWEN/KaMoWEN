@@ -17,4 +17,4 @@ TypeScript · React · React Native · Tailwind CSS · Vite · Vitest · Git
 
 ## Contact
 
-📫 [karnadg12345@gmail.com](mailto:karnadg12345@gmail.com) · 📍 Nha Trang, Vietnam
+📫 [karnadg12345@gmail.com](mailto:karnadg12345@gmail.com) · 💬 [@KaMoWEN](https://t.me/KaMoWEN) · 📍 Nha Trang, Vietnam
