@@ -1,20 +1,20 @@
 # Hi, I'm Danila 👋
 
-**Frontend developer** · React · TypeScript · React Native
+Frontend developer: React, TypeScript, React Native. I like small apps done properly, with tests and handled edge cases, not just a happy path for the demo.
 
-I build typed, tested interfaces and ship them. Open to frontend roles, remote-friendly.
+Looking for a frontend role. Remote works best (EN / RU).
 
 ## Projects
 
-- 🖥 **[Portfolio](https://portfolio-pi-one-55befe706c.vercel.app)** — my site: React + TypeScript + Tailwind v4, with every skill linked to the project that proves it · [code](https://github.com/KaMoWEN/portfolio)
-- 📈 **[MarketDesk](https://market-desk-five.vercel.app)** — crypto market & portfolio tracker: serverless API proxy, TanStack Query data layer, tested portfolio math, CI · [code](https://github.com/KaMoWEN/MarketDesk)
-- 🎬 **[CineScope](https://cinescope-omega-five.vercel.app)** — movie discovery on the TMDB API: debounced search with request cancellation, routing, full loading/error states · [code](https://github.com/KaMoWEN/cinescope)
-- 🗂 **[FlowBoard](https://flowboard-ruby.vercel.app)** — Kanban board with accessible drag-and-drop, reducer architecture and unit tests · [code](https://github.com/KaMoWEN/flowboard)
-- 🌦 **[PocketWeather](https://github.com/KaMoWEN/pocketweather)** — React Native weather app built with Expo: city search and a 7-day forecast, no API key required
+- 🖥 **[Portfolio](https://portfolio-pi-one-55befe706c.vercel.app)** - my site on React + TypeScript + Tailwind v4. Every skill listed there links to the project that actually shows it ([code](https://github.com/KaMoWEN/portfolio))
+- 📈 **[MarketDesk](https://market-desk-five.vercel.app)** - crypto market and portfolio tracker. The API key stays on the server behind a small serverless proxy, data goes through TanStack Query, and the P/L math is pure functions with unit tests. CI runs on every push ([code](https://github.com/KaMoWEN/MarketDesk))
+- 🎬 **[CineScope](https://cinescope-omega-five.vercel.app)** - movie search on the TMDB API. Debounced search that cancels stale requests, query and page live in the URL, real loading and error screens ([code](https://github.com/KaMoWEN/cinescope))
+- 🗂 **[FlowBoard](https://flowboard-ruby.vercel.app)** - Kanban board where drag-and-drop also works from the keyboard. All state changes go through one tested reducer ([code](https://github.com/KaMoWEN/flowboard))
+- 🌦 **[PocketWeather](https://github.com/KaMoWEN/pocketweather)** - React Native weather app on Expo: city search and a 7-day forecast, no API key needed
 
 ## Stack
 
-TypeScript · React · React Native · TanStack Query · Tailwind CSS · Vite · Vitest · Git
+TypeScript, JavaScript, React, React Native (Expo), React Router, TanStack Query, Tailwind CSS, dnd-kit, Recharts, Vite, Vitest, Testing Library, Git, GitHub Actions
 
 ## Contact
 
