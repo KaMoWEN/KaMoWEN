@@ -1,8 +1,8 @@
 # Hi, I'm Danila 👋
 
-**Junior frontend developer** · React · TypeScript · React Native
+**Frontend developer** · React · TypeScript · React Native
 
-I build typed, tested interfaces and ship them. Open to junior frontend roles, remote-friendly.
+I build typed, tested interfaces and ship them. Open to frontend roles, remote-friendly.
 
 ## Projects
 
