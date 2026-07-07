@@ -6,7 +6,7 @@ Looking for a frontend role. Remote works best (EN / RU).
 
 ## Projects
 
-- 🖥 **[Portfolio](https://portfolio-pi-one-55befe706c.vercel.app)** - my site on React + TypeScript + Tailwind v4. Every skill listed there links to the project that actually shows it ([code](https://github.com/KaMoWEN/portfolio))
+- 🖥 **[Portfolio](https://kamowen.vercel.app)** - my site on React + TypeScript + Tailwind v4. Every skill listed there links to the project that actually shows it ([code](https://github.com/KaMoWEN/portfolio))
 - 📈 **[MarketDesk](https://market-desk-five.vercel.app)** - crypto market and portfolio tracker. The API key stays on the server behind a small serverless proxy, data goes through TanStack Query, and the P/L math is pure functions with unit tests. CI runs on every push ([code](https://github.com/KaMoWEN/MarketDesk))
 - 🎬 **[CineScope](https://cinescope-omega-five.vercel.app)** - movie search on the TMDB API. Debounced search that cancels stale requests, query and page live in the URL, real loading and error screens ([code](https://github.com/KaMoWEN/cinescope))
 - 🗂 **[FlowBoard](https://flowboard-ruby.vercel.app)** - Kanban board where drag-and-drop also works from the keyboard. All state changes go through one tested reducer ([code](https://github.com/KaMoWEN/flowboard))
